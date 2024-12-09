@@ -74,3 +74,8 @@ static void reallocate(Stack * stack)
 	stack->contents = tmp;
 }
 
+void trash()
+{
+	return;
+}
+
